@@ -31,9 +31,11 @@ Please read the [Guardfile DSL documentation](https://github.com/guard/guard#rea
 
 Available options:
 
-  all_on_start: true        # Check all files at Guard startup. default: true
-  slim_dires: ['app/views'] # Check Directories. default: 'app/views' or '.'
-  cli: '--no-color'         # Additional command line options to slim-lint. default: nil
+```ruby
+all_on_start: true                       # Check all files at Guard startup. default: true
+slim_dires: ['app/views', 'anothor/views'] # Check Directories. default: 'app/views' or '.'
+cli: '--reporter json --exclude-linter RuboCop' # Additional command line options to slim-lint. default: nil
+```
 
 ## Development
 
