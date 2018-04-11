@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yatmsu/guard-slim-lint.svg?branch=master)](https://travis-ci.org/yatmsu/guard-slim-lint)
+
 # Guard::SlimLint
 
 A guard to lint your Slim.
