@@ -9,7 +9,7 @@ module Guard
     DEFAULT_OPTIONS = {
       all_on_start: true,
       cli: nil
-    }.freeze
+    }
 
     attr_reader :options
 
