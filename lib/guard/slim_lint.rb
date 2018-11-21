@@ -23,6 +23,7 @@ module Guard
     # @option options [Boolean] any_return allow any object to be returned from a watcher
     #
     def initialize(options = {})
+      super
       default_options = DEFAULT_OPTIONS.dup
       @options = default_options.merge!(slim_dires: default_slim_dirs).merge!(options)
     end
