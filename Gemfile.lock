@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    guard-slim_lint (1.0.3)
+    guard-slim_lint (1.0.4)
       guard (~> 2.2)
       guard-compat (~> 1.2)
       slim_lint (>= 0.15.1)
