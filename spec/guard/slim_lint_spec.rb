@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'spec_helper'
-
 describe Guard::SlimLint do
   subject { described_class.new(options) }
   let(:options) { { all_on_start: true, cli: nil } }
