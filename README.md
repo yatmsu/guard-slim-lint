@@ -6,6 +6,11 @@
 
 A guard to lint your Slim.
 
+## Requirements
+
+* Ruby 2.4+
+* Slim-Lint 0.17.0+
+
 ## Installation
 
 Add this line to your application's Gemfile:
