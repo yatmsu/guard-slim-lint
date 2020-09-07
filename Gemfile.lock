@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    guard-slim_lint (1.0.5)
+    guard-slim_lint (1.1.0)
       guard (~> 2.2)
       guard-compat (~> 1.2)
       slim_lint (>= 0.17.0)
@@ -87,7 +87,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
+  bundler (~> 2.1.4)
   guard-slim_lint!
   rake (~> 12.3)
   rspec (~> 3.7.0)
