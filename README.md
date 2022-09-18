@@ -1,5 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/guard-slim_lint.svg)](https://badge.fury.io/rb/guard-slim_lint)
-[![Build Status](https://travis-ci.com/yatmsu/guard-slim-lint.svg?branch=master)](https://travis-ci.com/yatmsu/guard-slim-lint)
+[![Build Status](https://github.com/yatmsu/guard-slim-lint/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/yatmsu/guard-slim-lint/actions/workflows/tests.yml?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/2829a3c4971e2b4c51fb/maintainability)](https://codeclimate.com/github/yatmsu/guard-slim-lint/maintainability)
 
 # Guard::SlimLint
