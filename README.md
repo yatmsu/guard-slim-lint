@@ -8,7 +8,7 @@ A guard to lint your Slim.
 
 ## Requirements
 
-* Ruby 2.4+
+* Ruby 2.5+
 * Slim-Lint 0.17.0+
 
 ## Installation
