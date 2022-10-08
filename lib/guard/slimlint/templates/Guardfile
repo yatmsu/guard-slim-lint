@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Guard-SlimLint supports a lot options with default values:
 # all_on_start: true        # Check all files at Guard startup. default: true
 # slim_dires: ['app/views'] # Check Directories. default: 'app/views' or '.'

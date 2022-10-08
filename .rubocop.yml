@@ -1,0 +1,17 @@
+AllCops:
+  TargetRubyVersion: 2.5
+
+LineLength:
+  Max: 120
+
+RegexpLiteral:
+  Exclude:
+    - '**/*.gemspec'
+    - '**/Guardfile'
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+
+Style/MutableConstant:
+  Enabled: false
