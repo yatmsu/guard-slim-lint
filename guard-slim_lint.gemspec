@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'guard', '~> 2.2'
   spec.add_dependency 'guard-compat', '~> 1.2'
-  spec.add_runtime_dependency 'slim_lint', '>= 0.17.0'
+  spec.add_runtime_dependency 'slim_lint', '~> 0.17'
 
   spec.add_development_dependency 'guard-rspec', '~> 4.7.3'
   spec.add_development_dependency 'guard-rubocop', '~> 1.5.0'
